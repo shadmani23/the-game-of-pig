@@ -1,6 +1,7 @@
 # Pig Dice Game
 My take on the popular JavaScript dice game!
 
+Rules of the game:
 Two players take turns playing in rounds.
 In a round, a player rolls a single die as many times as they wish, with the sum of their rolls becoming their current score for that round.
 If the player rolls a 1, their score for that round becomes 0 and the other player takes a turn.
